@@ -296,7 +296,7 @@ hi def link rustHexNumber       rustNumber
 hi def link rustOctNumber       rustNumber
 hi def link rustBinNumber       rustNumber
 hi def link rustIdentifierPrime rustIdentifier
-hi def link rustTrait           rustType
+"hi def link rustTrait           rustType
 hi def link rustDeriveTrait     rustTrait
 
 hi def link rustMacroRepeatDelimiters   Macro
@@ -335,7 +335,6 @@ hi def link rustRepeat        Conditional
 hi def link rustConditional   Conditional
 hi def link rustIdentifier    Identifier
 hi def link rustCapsIdent     rustIdentifier
-"hi def link rustModPath       Include
 "hi def link rustModPath       Include
 "hi def link rustModPathSep    Delimiter
 hi def link rustFunction      Function
