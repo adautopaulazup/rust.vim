@@ -337,7 +337,7 @@ hi def link rustIdentifier    Identifier
 hi def link rustCapsIdent     rustIdentifier
 "hi def link rustModPath       Include
 "hi def link rustModPath       Include
-hi def link rustModPathSep    Delimiter
+"hi def link rustModPathSep    Delimiter
 hi def link rustFunction      Function
 hi def link rustFuncName      Function
 hi def link rustFuncCall      Function
