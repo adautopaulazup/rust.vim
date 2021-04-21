@@ -296,7 +296,7 @@ hi def link rustHexNumber       rustNumber
 hi def link rustOctNumber       rustNumber
 hi def link rustBinNumber       rustNumber
 hi def link rustIdentifierPrime rustIdentifier
-"hi def link rustTrait           rustType
+hi def link rustTrait           rustType
 hi def link rustDeriveTrait     rustTrait
 
 hi def link rustMacroRepeatDelimiters   Macro
@@ -353,7 +353,8 @@ hi def link rustCommentDocCodeFence rustCommentLineDoc
 hi def link rustAssert        PreCondit
 hi def link rustPanic         PreCondit
 hi def link rustMacro         Macro
-hi def link rustType          Type
+"hi def link rustType          Type
+hi def link rustType          Function
 hi def link rustTodo          Todo
 hi def link rustAttribute     PreProc
 hi def link rustDerive        PreProc
